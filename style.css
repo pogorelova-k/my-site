@@ -17,6 +17,10 @@ body {
   padding: 0 16px;
 }
 
+.space {
+  margin: 80px;
+}
+
 .page-header {
   margin: 0 0 160px;
   padding: 32px 0 32px;
@@ -117,6 +121,10 @@ body {
 .skill-css {
   background-image: url("img/icon-css.svg");
 }
+.skills-js {
+  background-image: url("img/js.png");
+}
+
 
 .level {
   margin: 4px 0 16px;
@@ -191,3 +199,5 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+
+
